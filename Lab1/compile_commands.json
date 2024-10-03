@@ -1,0 +1,101 @@
+[{
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.hpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.hpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.hpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.hpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\NodoPila\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.hpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.hpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\Personas.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo12\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo09",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo09\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo07\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.hpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.hpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo06\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo05\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo04\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo11\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo08\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo1\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo03\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo10\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo02\\main.cpp -o C:\\Users\\ThinkPad\\OneDrive\\Documentos\\Lab1\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
